@@ -1,7 +1,6 @@
 ## Ryan Elmore
 ## Testing RStudio/Git Integration
 ## 17 July 2013
-## Jeebus
 
 e <- rnorm(100, s = 10)
 x <- 5 + 10*runif(100, 0, 10)
